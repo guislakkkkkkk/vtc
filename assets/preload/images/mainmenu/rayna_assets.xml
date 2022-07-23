@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rayna_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rayna0000" x="0" y="0" width="508" height="762" frameX="0" frameY="-36" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0001" x="0" y="0" width="508" height="762" frameX="0" frameY="-36" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0002" x="508" y="0" width="501" height="764" frameX="-6" frameY="-34" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0003" x="508" y="0" width="501" height="764" frameX="-6" frameY="-34" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0004" x="1009" y="0" width="494" height="774" frameX="-10" frameY="-24" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0005" x="1009" y="0" width="494" height="774" frameX="-10" frameY="-24" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0006" x="1503" y="0" width="491" height="779" frameX="-12" frameY="-19" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0007" x="1503" y="0" width="491" height="779" frameX="-12" frameY="-19" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0008" x="0" y="779" width="490" height="781" frameX="-13" frameY="-17" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0009" x="0" y="779" width="490" height="781" frameX="-13" frameY="-17" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0010" x="490" y="779" width="493" height="798" frameX="-8" frameY="0" frameWidth="508" frameHeight="798"/>
+	<SubTexture name="rayna0011" x="490" y="779" width="493" height="798" frameX="-8" frameY="0" frameWidth="508" frameHeight="798"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="valen.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VALEN IDLE0000" x="0" y="0" width="359" height="432" frameX="-7" frameY="-14" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0001" x="0" y="0" width="359" height="432" frameX="-7" frameY="-14" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0002" x="359" y="0" width="356" height="438" frameX="-4" frameY="-8" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0003" x="359" y="0" width="356" height="438" frameX="-4" frameY="-8" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0004" x="715" y="0" width="356" height="442" frameX="-1" frameY="-4" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0005" x="715" y="0" width="356" height="442" frameX="-1" frameY="-4" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0006" x="1071" y="0" width="354" height="445" frameX="0" frameY="-1" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0007" x="1071" y="0" width="354" height="445" frameX="0" frameY="-1" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0008" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0009" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0010" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0011" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0012" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN IDLE0013" x="1425" y="0" width="353" height="446" frameX="0" frameY="0" frameWidth="366" frameHeight="446"/>
+	<SubTexture name="VALEN LEFT0000" x="0" y="446" width="376" height="432" frameX="0" frameY="0" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0001" x="0" y="446" width="376" height="432" frameX="0" frameY="0" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0002" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0003" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0004" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0005" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0006" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0007" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0008" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0009" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0010" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0011" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0012" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN LEFT0013" x="376" y="446" width="374" height="431" frameX="-8" frameY="-1" frameWidth="382" frameHeight="432"/>
+	<SubTexture name="VALEN RIGHT0000" x="750" y="446" width="362" height="456"/>
+	<SubTexture name="VALEN RIGHT0001" x="750" y="446" width="362" height="456"/>
+	<SubTexture name="VALEN RIGHT0002" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0003" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0004" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0005" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0006" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0007" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0008" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0009" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0010" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0011" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0012" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="VALEN RIGHT0013" x="1112" y="446" width="359" height="448" frameX="0" frameY="-8" frameWidth="362" frameHeight="456"/>
+	<SubTexture name="valen down0000" x="1471" y="446" width="394" height="367" frameX="-1" frameY="-11" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0001" x="1471" y="446" width="394" height="367" frameX="-1" frameY="-11" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0002" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0003" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0004" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0005" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0006" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0007" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0008" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0009" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0010" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0011" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0012" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen down0013" x="0" y="902" width="382" height="378" frameX="0" frameY="0" frameWidth="395" frameHeight="378"/>
+	<SubTexture name="valen up0000" x="382" y="902" width="343" height="461" frameX="-2" frameY="0" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0001" x="382" y="902" width="343" height="461" frameX="-2" frameY="0" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0002" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0003" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0004" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0005" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0006" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0007" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0008" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0009" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0010" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0011" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0012" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+	<SubTexture name="valen up0013" x="725" y="902" width="347" height="457" frameX="0" frameY="-4" frameWidth="347" frameHeight="461"/>
+</TextureAtlas>
