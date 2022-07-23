@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle kite",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kite down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kite up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kite right"
+		},
+		{
+			"offsets": [
+				-6,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kite left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kittte",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kite",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

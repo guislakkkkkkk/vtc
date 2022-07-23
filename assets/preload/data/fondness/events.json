@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "station",
+		"player1": "rayna_player2",
+		"player2": "Trake",
+		"player3": null,
+		"events": [
+			[
+				9525,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				10800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				13200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				14325,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				18900,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				27300,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				28200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.1"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "fondness"
+	}
+}

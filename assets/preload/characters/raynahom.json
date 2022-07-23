@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				236,
+				285
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rayna",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayna_assets",
+	"position": [
+		590,
+		410
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		24
+	],
+	"camera_position": [
+		-340,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

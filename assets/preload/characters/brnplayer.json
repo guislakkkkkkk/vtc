@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "brn left"
+		},
+		{
+			"offsets": [
+				-100,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BRN RIGHT"
+		},
+		{
+			"offsets": [
+				-89,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BRN DOWN"
+		},
+		{
+			"offsets": [
+				-100,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BRN UP"
+		},
+		{
+			"offsets": [
+				-95,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BRN IDLE"
+		},
+		{
+			"offsets": [
+				-97,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "brn left"
+		},
+		{
+			"offsets": [
+				-100,
+				-115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BRN RIGHT"
+		},
+		{
+			"offsets": [
+				-89,
+				-128
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BRN DOWN"
+		},
+		{
+			"offsets": [
+				-102,
+				-83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BRN UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brnito",
+	"position": [
+		580,
+		390
+	],
+	"healthicon": "brn",
+	"flip_x": true,
+	"healthbar_colors": [
+		54,
+		0,
+		24
+	],
+	"camera_position": [
+		190,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

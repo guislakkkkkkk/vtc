@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "momogogo",
+		"player1": "rayniii",
+		"player2": "ruv",
+		"player3": null,
+		"events": [
+			[
+				7080,
+				[
+					[
+						"Must Press Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.9"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Soda Disco Funk"
+	}
+}

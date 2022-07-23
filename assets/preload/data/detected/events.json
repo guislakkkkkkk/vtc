@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "nevada",
+		"player1": "rayna_player",
+		"player2": "tricky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf2",
+		"bpm": 195,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "detected"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rayna down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rayna up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rayna right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rayna left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rayna idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-49,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "rayna dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayna",
+	"position": [
+		30,
+		30
+	],
+	"healthicon": "rayna",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		255,
+		55
+	],
+	"camera_position": [
+		140,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

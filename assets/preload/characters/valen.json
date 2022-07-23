@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VALEN IDLE"
+		},
+		{
+			"offsets": [
+				-36,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VALEN LEFT"
+		},
+		{
+			"offsets": [
+				-110,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "VALEN RIGHT"
+		},
+		{
+			"offsets": [
+				-93,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "valen down"
+		},
+		{
+			"offsets": [
+				-84,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "valen up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/valen",
+	"position": [
+		690,
+		450
+	],
+	"healthicon": "valen",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		117,
+		71
+	],
+	"camera_position": [
+		60,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

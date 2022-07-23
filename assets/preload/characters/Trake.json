@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Trake Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Trake Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Trake Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Trake Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Trake Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				51
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Trake Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Trake Miss Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-56,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Trake Left"
+		},
+		{
+			"offsets": [
+				52,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Trake Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trake",
+	"position": [
+		217,
+		310
+	],
+	"healthicon": "trake",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		20,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

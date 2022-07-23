@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-20,
+				10,
 				-51
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-26,
 				27
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-13,
 				-7
 			],
 			"loop": false,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				7,
-				19
+				-1
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				15,
+				-69
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-18,
 				27
 			],
 			"loop": false,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-19,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,36 +101,14 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-11,
+				15
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "hey",
 			"indices": [],
 			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
 		},
 		{
 			"offsets": [
@@ -164,57 +142,24 @@
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/RAYNABF",
 	"position": [
-		0,
-		350
+		-130,
+		510
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
 		176,
-		209
+		189
 	],
 	"camera_position": [
-		0,
-		0
+		60,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1
