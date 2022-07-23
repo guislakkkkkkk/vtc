@@ -150,8 +150,12 @@ class MainMenuState extends MusicBeatState
 		}
 		#end
 
-		super.create();
+                #if android
+		addVirtualPad(UP_DOWN, A_B);
+		#end
 
+		super.create();
+		
 		switch (FlxG.random.int(1, 6))
             {
             case 1:
@@ -219,10 +223,6 @@ class MainMenuState extends MusicBeatState
 			char.antialiasing = ClientPrefs.globalAntialiasing;
 			add(char);
 		}
-
-                #if android
-		addVirtualPad(UP_DOWN, A_B);
-		#end
 
 	}
 
