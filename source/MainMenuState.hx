@@ -35,8 +35,6 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
-		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
 		#if !switch 'donate', #end
 		'options'
@@ -46,6 +44,8 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
+
+	var char:FlxSprite;
 
 	override function create()
 	{
@@ -105,7 +105,7 @@ class MainMenuState extends MusicBeatState
 		for (i in 0...optionShit.length)
 		{
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
-			var menuItem:FlxSprite = new FlxSprite(0, (i * 140)  + offset);
+			var menuItem:FlxSprite = new FlxSprite(100, (i * 140)  + offset);
 			menuItem.scale.x = scale;
 			menuItem.scale.y = scale;
 			menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
@@ -113,7 +113,6 @@ class MainMenuState extends MusicBeatState
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			menuItem.screenCenter(X);
 			menuItems.add(menuItem);
 			var scr:Float = (optionShit.length - 4) * 0.135;
 			if(optionShit.length < 6) scr = 0;
@@ -155,7 +154,77 @@ class MainMenuState extends MusicBeatState
 		addVirtualPad(UP_DOWN, A_B_E);
 		#end
 
+		
 		super.create();
+
+		switch (FlxG.random.int(1, 6))
+            {
+            case 1:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/brnito'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/brnito');
+			char.animation.addByPrefix('idleE', 'BRN IDLE', 24, true);
+			char.animation.play('idleE');
+			char.scrollFactor.set();
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+            case 2:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/GF_ass_sets_3'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/GF_ass_sets_3');
+			char.animation.addByPrefix('idleA', 'GF Dancing Beat', 24, true);
+			char.animation.play('idleA');
+			char.scrollFactor.set();
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+			case 3:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/minus_rayna'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/minus_rayna');
+			char.animation.addByPrefix('idleG', 'GF Dancing Beat', 24, true);
+			char.animation.play('idleG');
+			char.scrollFactor.set();
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+			case 4:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/rayna'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/rayna');
+			char.animation.addByPrefix('idleI', 'rayna idle', 24, true);
+			char.animation.play('idleI');
+			char.scrollFactor.set();
+			char.flipX = true;
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+			case 5:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/rayna_assets'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/rayna_assets');
+			char.animation.addByPrefix('idleR', 'rayna', 24, true);
+			char.animation.play('idleR');
+			char.scrollFactor.set();
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+			case 6:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/RAYNABF'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/RAYNABF');
+			char.animation.addByPrefix('idleB', 'BF idle dance', 24, true);
+			char.animation.play('idleB');
+			char.scrollFactor.set();
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+              
+			case 7:
+			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/valen'));
+			char.frames = Paths.getSparrowAtlas('mainmenu/valen');
+			char.animation.addByPrefix('idleV', 'VALEN IDLE', 24, true);
+			char.animation.play('idleV');
+			char.scrollFactor.set();
+			char.flipX = true;
+			char.antialiasing = ClientPrefs.globalAntialiasing;
+			add(char);
+		}
+
 	}
 
 	#if ACHIEVEMENTS_ALLOWED
@@ -264,7 +333,7 @@ class MainMenuState extends MusicBeatState
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
-			spr.screenCenter(X);
+
 		});
 	}
 
