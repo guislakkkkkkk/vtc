@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Pink-Demon",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"rayna",
+		"rbf",
+		"rgf"
+	],
+	"songs": [
+		[
+			"dreamy",
+			"rayna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"groove",
+			"rayna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"star-forever",
+			"rayna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bultrain",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
