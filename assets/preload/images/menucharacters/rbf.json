@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bf idle",
+	"image": "Menu_RBF",
+	"position": [
+		100,
+		49
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "bf hey"
+}
