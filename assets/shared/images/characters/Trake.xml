@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trake.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trake Down0000" x="0" y="0" width="347" height="578" frameX="0" frameY="-7" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Down0001" x="347" y="0" width="347" height="578" frameX="0" frameY="-7" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Down0002" x="694" y="0" width="343" height="584" frameX="-2" frameY="0" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Down0003" x="1037" y="0" width="343" height="584" frameX="-2" frameY="0" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Down0004" x="1380" y="0" width="343" height="584" frameX="-2" frameY="0" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Down0005" x="1723" y="0" width="343" height="584" frameX="-2" frameY="0" frameWidth="347" frameHeight="585"/>
+	<SubTexture name="Trake Idle0000" x="2066" y="0" width="359" height="578" frameX="-10" frameY="-6" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0001" x="2425" y="0" width="359" height="578" frameX="-10" frameY="-6" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0002" x="2784" y="0" width="357" height="583" frameX="-10" frameY="-1" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0003" x="3141" y="0" width="357" height="583" frameX="-10" frameY="-1" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0004" x="3498" y="0" width="367" height="584" frameX="-6" frameY="0" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0005" x="0" y="584" width="367" height="584" frameX="-6" frameY="0" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0006" x="367" y="584" width="374" height="584" frameX="-1" frameY="0" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0007" x="741" y="584" width="374" height="584" frameX="-1" frameY="0" frameWidth="376" frameHeight="584"/>
+	<SubTexture name="Trake Idle0008" x="1115" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Idle0009" x="1491" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Idle0010" x="1867" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Idle0011" x="2243" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Idle0012" x="2619" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Idle0013" x="2995" y="584" width="376" height="584"/>
+	<SubTexture name="Trake Left0000" x="3371" y="584" width="369" height="589" frameX="0" frameY="-3" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Left0001" x="0" y="1173" width="369" height="589" frameX="0" frameY="-3" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Left0002" x="369" y="1173" width="366" height="592" frameX="-4" frameY="0" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Left0003" x="735" y="1173" width="366" height="592" frameX="-4" frameY="0" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Left0004" x="1101" y="1173" width="366" height="592" frameX="-4" frameY="0" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Left0005" x="1467" y="1173" width="366" height="592" frameX="-4" frameY="0" frameWidth="370" frameHeight="592"/>
+	<SubTexture name="Trake Miss Down0000" x="1833" y="1173" width="358" height="566" frameX="0" frameY="-12" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Down0001" x="2191" y="1173" width="358" height="566" frameX="0" frameY="-12" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Down0002" x="2549" y="1173" width="347" height="577" frameX="-5" frameY="0" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Down0003" x="2896" y="1173" width="347" height="577" frameX="-5" frameY="0" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Down0004" x="3243" y="1173" width="347" height="577" frameX="-5" frameY="0" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Down0005" x="3590" y="1173" width="347" height="577" frameX="-5" frameY="0" frameWidth="358" frameHeight="578"/>
+	<SubTexture name="Trake Miss Left0000" x="0" y="1765" width="369" height="589" frameX="0" frameY="0" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Left0001" x="369" y="1765" width="369" height="589" frameX="0" frameY="0" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Left0002" x="738" y="1765" width="363" height="587" frameX="-7" frameY="-2" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Left0003" x="1101" y="1765" width="363" height="587" frameX="-7" frameY="-2" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Left0004" x="1464" y="1765" width="363" height="587" frameX="-7" frameY="-2" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Left0005" x="1827" y="1765" width="363" height="587" frameX="-7" frameY="-2" frameWidth="370" frameHeight="589"/>
+	<SubTexture name="Trake Miss Right0000" x="2190" y="1765" width="380" height="587"/>
+	<SubTexture name="Trake Miss Right0001" x="2570" y="1765" width="380" height="587"/>
+	<SubTexture name="Trake Miss Right0002" x="2950" y="1765" width="377" height="586" frameX="0" frameY="-1" frameWidth="380" frameHeight="587"/>
+	<SubTexture name="Trake Miss Right0003" x="3327" y="1765" width="377" height="586" frameX="0" frameY="-1" frameWidth="380" frameHeight="587"/>
+	<SubTexture name="Trake Miss Right0004" x="3704" y="1765" width="377" height="586" frameX="0" frameY="-1" frameWidth="380" frameHeight="587"/>
+	<SubTexture name="Trake Miss Right0005" x="0" y="2354" width="377" height="586" frameX="0" frameY="-1" frameWidth="380" frameHeight="587"/>
+	<SubTexture name="Trake Miss Up0000" x="377" y="2354" width="375" height="634" frameX="-4" frameY="0" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Miss Up0001" x="752" y="2354" width="375" height="634" frameX="-4" frameY="0" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Miss Up0002" x="1127" y="2354" width="384" height="624" frameX="0" frameY="-11" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Miss Up0003" x="1511" y="2354" width="384" height="624" frameX="0" frameY="-11" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Miss Up0004" x="1895" y="2354" width="384" height="624" frameX="0" frameY="-11" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Miss Up0005" x="2279" y="2354" width="384" height="624" frameX="0" frameY="-11" frameWidth="384" frameHeight="635"/>
+	<SubTexture name="Trake Right0000" x="2663" y="2354" width="379" height="588" frameX="-1" frameY="-1" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Right0001" x="3042" y="2354" width="379" height="588" frameX="-1" frameY="-1" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Right0002" x="3421" y="2354" width="373" height="589" frameX="0" frameY="0" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Right0003" x="0" y="2988" width="373" height="589" frameX="0" frameY="0" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Right0004" x="373" y="2988" width="373" height="589" frameX="0" frameY="0" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Right0005" x="746" y="2988" width="373" height="589" frameX="0" frameY="0" frameWidth="380" frameHeight="589"/>
+	<SubTexture name="Trake Up0000" x="1119" y="2988" width="374" height="635"/>
+	<SubTexture name="Trake Up0001" x="1493" y="2988" width="374" height="635"/>
+	<SubTexture name="Trake Up0002" x="1867" y="2988" width="365" height="630" frameX="0" frameY="-5" frameWidth="374" frameHeight="635"/>
+	<SubTexture name="Trake Up0003" x="2232" y="2988" width="365" height="630" frameX="0" frameY="-5" frameWidth="374" frameHeight="635"/>
+	<SubTexture name="Trake Up0004" x="2597" y="2988" width="365" height="630" frameX="0" frameY="-5" frameWidth="374" frameHeight="635"/>
+	<SubTexture name="Trake Up0005" x="2962" y="2988" width="365" height="630" frameX="0" frameY="-5" frameWidth="374" frameHeight="635"/>
+</TextureAtlas>
