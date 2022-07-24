@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubikoi.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kite y blu bumpin0000" x="0" y="0" width="2019" height="666" frameX="-3" frameY="-36" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0001" x="0" y="0" width="2019" height="666" frameX="-3" frameY="-36" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0002" x="2019" y="0" width="1986" height="676" frameX="-32" frameY="-26" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0003" x="2019" y="0" width="1986" height="676" frameX="-32" frameY="-26" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0004" x="0" y="676" width="1981" height="684" frameX="-34" frameY="-18" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0005" x="0" y="676" width="1981" height="684" frameX="-34" frameY="-18" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0006" x="1981" y="676" width="1979" height="688" frameX="-34" frameY="-14" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0007" x="1981" y="676" width="1979" height="688" frameX="-34" frameY="-14" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0008" x="0" y="1364" width="1979" height="690" frameX="-34" frameY="-12" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0009" x="0" y="1364" width="1979" height="690" frameX="-34" frameY="-12" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0010" x="1979" y="1364" width="2010" height="702" frameX="0" frameY="0" frameWidth="2022" frameHeight="702"/>
+	<SubTexture name="kite y blu bumpin0011" x="1979" y="1364" width="2010" height="702" frameX="0" frameY="0" frameWidth="2022" frameHeight="702"/>
+</TextureAtlas>
