@@ -82,7 +82,7 @@ class CreditsState extends MusicBeatState
 			['Psych Engine Android'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	    'F73838'],
 			[''],
-			['Cara q fez o port lol'],
+			['Cara q recriou o port lol'],
 			['Guislakkkk',	'gui',				'lol',					'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ', 	'FE0015'],
 			[''],
 			['Psych Engine Team'],
