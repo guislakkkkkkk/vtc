@@ -159,7 +159,7 @@ class MainMenuState extends MusicBeatState
 		switch (FlxG.random.int(1, 6))
             {
             case 1:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/brnito'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/brnito'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/brnito');
 			char.animation.addByPrefix('idleE', 'BRN IDLE', 24, true);
 			char.animation.play('idleE');
@@ -168,7 +168,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
             case 2:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/GF_ass_sets_3'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/GF_ass_sets_3'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/GF_ass_sets_3');
 			char.animation.addByPrefix('idleA', 'GF Dancing Beat', 24, true);
 			char.animation.play('idleA');
@@ -177,7 +177,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
 			case 3:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/minus_rayna'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/minus_rayna'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/minus_rayna');
 			char.animation.addByPrefix('idleG', 'GF Dancing Beat', 24, true);
 			char.animation.play('idleG');
@@ -186,7 +186,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
 			case 4:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/rayna'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/rayna'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/rayna');
 			char.animation.addByPrefix('idleI', 'rayna idle', 24, true);
 			char.animation.play('idleI');
@@ -196,7 +196,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
 			case 5:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/rayna_assets'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/rayna_assets'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/rayna_assets');
 			char.animation.addByPrefix('idleR', 'rayna', 24, true);
 			char.animation.play('idleR');
@@ -205,7 +205,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
 			case 6:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/RAYNABF'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/RAYNABF'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/RAYNABF');
 			char.animation.addByPrefix('idleB', 'BF idle dance', 24, true);
 			char.animation.play('idleB');
@@ -214,7 +214,7 @@ class MainMenuState extends MusicBeatState
 			add(char);
               
 			case 7:
-			char = new FlxSprite(790, 200).loadGraphic(Paths.image('mainmenu/valen'));
+			char = new FlxSprite(790, 100).loadGraphic(Paths.image('mainmenu/valen'));
 			char.frames = Paths.getSparrowAtlas('mainmenu/valen');
 			char.animation.addByPrefix('idleV', 'VALEN IDLE', 24, true);
 			char.animation.play('idleV');
